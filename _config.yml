@@ -1,0 +1,15 @@
+remote_theme: pages-themes/hacker@v0.2.0 # hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# GitHub Pages themes https://github.com/pages-themes
+# minimal@v0.2.0
+# cayman@v0.2.0
+# hacker@v0.2.0
+# architect@v0.2.0
+# slate@v0.2.0
+# midnight@v0.2.0
+
+title: law
+description: exam
+show_downloads: false
