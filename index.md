@@ -1,5 +1,4 @@
 ![](https://github.com/lawexam/lawexam/assets/170080825/296aab5c-3caa-4e93-b1ba-12f5d09fb65a)
-![](https://github.com/lawexam/lawexam/assets/170080825/af7aa329-d3f0-4ccc-aef5-eb82764c879d)
 > 闻道有先后，术业有专攻，学之者不如好之者，好之者不如乐之者...
 
 # Why
