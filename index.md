@@ -96,5 +96,6 @@
 
 1. [厚大法考](http://www.houdask.com/site/hd/index.html)
 2. [众合法考](https://zhongheschool.com/fakao/)
+3. [觉晓法考](https://www.juexiaotime.com/home)
 
 ![](https://repobeats.axiom.co/api/embed/78378e264ea92739cc92753b73d5c79ce5e67e7e.svg "Repobeats analytics image")
