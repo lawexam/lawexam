@@ -1,6 +1,10 @@
 ![](https://github.com/lawexam/lawexam/assets/170080825/296aab5c-3caa-4e93-b1ba-12f5d09fb65a)
 > 闻道有先后，术业有专攻，学之者不如好之者，好之者不如乐之者...
 
+
+司法部发布[2024年国家统一法律职业资格考试公告](https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwgjsfkszx/gjsfksfzkjj/202406/t20240611_500192.html)，明确客观题考试网上报名时间为6月14日至6月30日，客观题考试时间为9月21日、22日，主观题考试时间为10月20日。
+
+
 # Why
 ![](https://github.com/lawexam/lawexam/assets/170080825/6c5c8301-0ffd-4002-a717-21094be9cf1c)
 
@@ -153,11 +157,13 @@
 | 2024     | 5       | 3         | 19         |
 | 2024     | 5       | 4         | 25         |
 | 2024     | 5       | 4         | 26         |
+| 2024     | 6       | 2         | 15         |
 
 # Reference
 
 1. [厚大法考](http://www.houdask.com/site/hd/index.html)
 2. [众合法考](https://zhongheschool.com/fakao/)
 3. [觉晓法考](https://www.juexiaotime.com/home)
+4. [司法部国家司法考试中心](https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwgjsfkszx/)
 
 ![](https://repobeats.axiom.co/api/embed/78378e264ea92739cc92753b73d5c79ce5e67e7e.svg "Repobeats analytics image")
