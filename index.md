@@ -1,5 +1,10 @@
+
 ![](https://github.com/lawexam/lawexam/assets/170080825/296aab5c-3caa-4e93-b1ba-12f5d09fb65a)
-> 闻道有先后，术业有专攻，学之者不如好之者，好之者不如乐之者...
+> 闻道有先后，术业有专攻
+
+![](https://github.com/user-attachments/assets/f297446e-d656-4195-a01d-b6ad0310f823)
+![](https://github.com/user-attachments/assets/10b493c4-e7d4-4808-8da7-9f2bf4cbbf96)
+> 学之者，好之者，乐之者
 
 司法部发布[2024年国家统一法律职业资格考试公告](https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwgjsfkszx/gjsfksfzkjj/202406/t20240611_500192.html)，明确客观题考试网上报名时间为6月14日至6月30日，客观题考试时间为9月21日、22日，主观题考试时间为10月20日。
 
@@ -179,6 +184,8 @@
 | 2024     | 5       | 4         | 25         |
 | 2024     | 5       | 4         | 26         |
 | 2024     | 6       | 2         | 15         |
+| 2025     | 5       | 1         | 03         |
+
 
 # Reference
 
