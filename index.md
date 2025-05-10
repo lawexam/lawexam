@@ -185,7 +185,7 @@
 | 2024     | 5       | 4         | 26         |
 | 2024     | 6       | 2         | 15         |
 | 2025     | 5       | 1         | 03         |
-
+| 2025     | 5       | 2         | 10         |
 
 # Reference
 
@@ -193,5 +193,10 @@
 2. [众合法考](https://zhongheschool.com/fakao/)
 3. [觉晓法考](https://www.juexiaotime.com/home)
 4. [司法部国家司法考试中心](https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwgjsfkszx/)
+5. [法律通识](https://www.dedao.cn/ebook/reader?id=6JvkYVNn8NXVry5MeG6Z9RALK2dxJ3GPgD6w7olBEmjgakz1DPvYObQ4qpQdZqme)
+6. [知识产权总论（第三版）](https://www.dedao.cn/ebook/reader?id=poVrgXBZpKrJvLmo89Q4bD7O1de2aWAzjx3YgXGPxBMVzqlRNk5j6yEnAa9E576Q)
+7. [知识产权应用问题研究（第二版）](https://www.dedao.cn/ebook/reader?id=rEQKv6PKN7rEo2Gxg96ZjApyMvQVlw5MQqwXb14PJzDkYaReqd8n5LOmB8d7egBx)
+8. [专利法理论与实务](https://www.dedao.cn/ebook/reader?id=YxRj1dbLGNgA2oaD6VBevmQZ7rnbYWmeOALWkyOKRMzJpX9lP5dxqE41j8De2pmO)
+9. [中华人民共和国知识产权法律法规全书（含规章及法律解释）（2025年版）](https://www.dedao.cn/ebook/reader?id=rEQKv6PKN7rEo2Gxg96ZjApyMvQVlw5jd960Xb14PJzDkYaReqd8n5LOmB8d7egB)
 
 ![](https://repobeats.axiom.co/api/embed/78378e264ea92739cc92753b73d5c79ce5e67e7e.svg "Repobeats analytics image")
