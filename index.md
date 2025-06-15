@@ -186,6 +186,24 @@
 | 2024     | 6       | 2         | 15         |
 | 2025     | 5       | 1         | 03         |
 | 2025     | 5       | 2         | 10         |
+| 2025     | 6       | 2         | 15         |
+
+
+![](https://github.com/user-attachments/assets/1d9a8135-460f-4816-bcc2-edd64fcf1a5c)
+![](https://github.com/user-attachments/assets/646dedef-7b85-46ed-9d3f-5ac93e3e1560)
+![](https://github.com/user-attachments/assets/2acc0220-9f28-4be5-9ed5-9665a4527847)
+![](https://github.com/user-attachments/assets/aa1ce858-a799-497d-8589-477d47d978b4)
+![](https://github.com/user-attachments/assets/d1aef612-bc07-4c8a-922c-a2786b0d2274)
+![](https://github.com/user-attachments/assets/57e47a13-6dba-44be-8a74-83e40b5cf2b4)
+> 法考复习地，覔书店
+
+![](https://github.com/user-attachments/assets/78175322-ae77-4ea7-887f-d1ab180c6bf3)
+![](https://github.com/user-attachments/assets/1ec622a4-d14a-415f-9e2c-dbd51e2a8d49)
+![](https://github.com/user-attachments/assets/cf92af32-17f2-422d-9bdf-574713ee101d)
+![](https://github.com/user-attachments/assets/407ade85-23d4-4bd6-b366-54e00a20f3db)
+![](https://github.com/user-attachments/assets/c18e1d50-4267-477a-9c36-f58ead4b410b)
+> ai 已来，ai & ip & english & exam...
+
 
 # Reference
 
