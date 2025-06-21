@@ -173,6 +173,9 @@
 
 理论法：马峰，杜洪波，杨帆，白斌，宋光明，陈璐琼，高晖云
 
+## AI辅助司法考试复习
+
+
 
 
 # Record
@@ -187,6 +190,7 @@
 | 2025     | 5       | 1         | 03         |
 | 2025     | 5       | 2         | 10         |
 | 2025     | 6       | 2         | 15         |
+| 2025     | 6       | 3         | 21         |
 
 
 ![](https://github.com/user-attachments/assets/1d9a8135-460f-4816-bcc2-edd64fcf1a5c)
@@ -218,5 +222,11 @@
 7. [知识产权应用问题研究（第二版）](https://www.dedao.cn/ebook/reader?id=rEQKv6PKN7rEo2Gxg96ZjApyMvQVlw5MQqwXb14PJzDkYaReqd8n5LOmB8d7egBx)
 8. [专利法理论与实务](https://www.dedao.cn/ebook/reader?id=YxRj1dbLGNgA2oaD6VBevmQZ7rnbYWmeOALWkyOKRMzJpX9lP5dxqE41j8De2pmO)
 9. [中华人民共和国知识产权法律法规全书（含规章及法律解释）（2025年版）](https://www.dedao.cn/ebook/reader?id=rEQKv6PKN7rEo2Gxg96ZjApyMvQVlw5jd960Xb14PJzDkYaReqd8n5LOmB8d7egB)
+10. [ChatGPT](https://chatgpt.com/)
+11. [Perplexity](https://www.perplexity.ai/)
+12. [秘塔AI](https://metaso.cn/)
+13. [DeepSeek](https://www.deepseek.com/)
+14. [元宝](https://yuanbao.tencent.com/chat/)
+15. [豆包](https://www.doubao.com/chat/)
 
 ![](https://repobeats.axiom.co/api/embed/78378e264ea92739cc92753b73d5c79ce5e67e7e.svg "Repobeats analytics image")
